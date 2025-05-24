@@ -8,7 +8,7 @@ A classic **Minesweeper** game built using **Go** and the **[Raylib](https://www
 
 ```bash
 git clone https://github.com/KonyD/minesweeper.git
-cd minesweeper-go-raylib
+cd minesweeper
 go run main.go
 ```
 

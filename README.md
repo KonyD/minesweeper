@@ -2,7 +2,7 @@
 
 A classic **Minesweeper** game built using **Go** and the **[Raylib](https://www.raylib.com/)** game development library.
 
-![screenshot](screenshots\screenshot.png)
+![screenshot](./screenshots/screenshot.png)
 
 ### 📥 Clone and Run
 

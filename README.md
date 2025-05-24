@@ -16,17 +16,17 @@ go run main.go
 
 ##### 🪟 Windows (with MinGW or TDM-GCC)
 ```bash
-go build -ldflags "-H=windowsgui" -o minesweeper.exe main.go
+go build -ldflags "-H=windowsgui" -o minesweeper.exe
 ```
 
 ##### 🐧 Linux
 
 ```bash
-go build -o minesweeper main.go
+go build -o minesweeper
 ```
 
 ##### 🍏 macOS
 
 ```bash
-go build -o minesweeper main.go
+go build -o minesweeper
 ```
